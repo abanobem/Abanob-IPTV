@@ -6,14 +6,20 @@ Powered by Abanob Emad
 ## Introduction
 Free IPTV Programm For Windows (.exe)
 
-<img src="https://raw.githubusercontent.com/abanobem/Abanob-IPTV/main/logo.png" alt="Abanob IPTV V5" width="400">
+<img src="https://raw.githubusercontent.com/abanobem/Abanob-IPTV/main/logo.png" alt="Abanob IPTV V5" width="300">
 
 ---
 
 ## Features
-* Feature 1: A brief description of the feature.
-* Feature 2: A brief description of the feature.
-* Feature 3: A brief description of the feature.
+* Modern and sleek design with the ability to change themes.
+* Lightweight and fast.
+* Includes most global and local channel packages.
+* Excellent search functionality.
+
+**Note:** This programm requires **VLC Media Player** to handle video playback.
+
+You can download it from the official website here:
+[Download VLC Media Player](https://www.videolan.org/vlc/)
 
 ---
 
