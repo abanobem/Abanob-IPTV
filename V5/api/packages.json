@@ -1,0 +1,19 @@
+{
+  "subscription_packages": [
+    {
+      "id": 1,
+      "name_ar": "الباقة الشهرية المميزة",
+      "price": "50 EGP",
+      "duration": "30 يوم",
+      "methods": "انستاباي، فودافون كاش، بايبال"
+    },
+    {
+      "id": 2,
+      "name_ar": "باقة الثلاثة أشهر",
+      "price": "120 EGP",
+      "duration": "90 يوم",
+      "methods": "انستاباي، فودافون كاش، بايبال"
+    }
+  ],
+  "payment_contact_email": "your_payment_email@example.com"
+}
