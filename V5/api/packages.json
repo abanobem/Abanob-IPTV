@@ -1,19 +1,35 @@
-{
-  "subscription_packages": [
+PACKAGES_DATA_PROCESSED = [
     {
-      "id": 1,
-      "name_ar": "الباقة الشهرية المميزة",
-      "price": "50 EGP",
-      "duration": "30 يوم",
-      "methods": "انستاباي، فودافون كاش، بايبال"
+        "name": "الباقة الشهرية المميزة",
+        "duration_ar": "30 يوم",
+        "duration_en": "30 Days",
+        "duration_fr": "30 Jours",
+        "details_ar": "باقة مميزة بجودة عالية ووصول كامل لجميع القنوات.",
+        "details_en": "Premium package with high quality and full access to all channels.",
+        "details_fr": "Forfait premium avec haute qualité et accès complet à toutes les chaînes.",
+        "prices": {
+            # الأسعار والطرق المصرية (EGP)
+            "EGP": {"amount": 50, "currency_symbol": "ج.م", "methods": ["InstaPay", "Vodafone Cash"], "method_icons": {"InstaPay": "instapay.png", "Vodafone Cash": "vodafone_cash.png"}},
+            # الأسعار والطرق الدولية (USD)
+            "USD": {"amount": 1, "currency_symbol": "$", "methods": ["PayPal", "RedotPay"], "method_icons": {"PayPal": "paypal.png", "RedotPay": "redotpay.png"}}
+        }
     },
     {
-      "id": 2,
-      "name_ar": "باقة الثلاثة أشهر",
-      "price": "120 EGP",
-      "duration": "90 يوم",
-      "methods": "انستاباي، فودافون كاش، بايبال"
+        "name": "باقة الثلاثة أشهر",
+        "duration_ar": "90 يوم",
+        "duration_en": "90 Days",
+        "duration_fr": "90 Jours",
+        "details_ar": "توفير أكبر لمدة ثلاثة أشهر مع خصم خاص.",
+        "details_en": "Greater savings for three months with a special discount.",
+        "details_fr": "Plus grandes économies pendant trois mois avec une réduction spéciale.",
+        "prices": {
+            # الأسعار والطرق المصرية (EGP)
+            "EGP": {"amount": 120, "currency_symbol": "ج.م", "methods": ["InstaPay", "Vodafone Cash"], "method_icons": {"InstaPay": "instapay.png", "Vodafone Cash": "vodafone_cash.png"}},
+            # الأسعار والطرق الدولية (USD) - تم تقدير السعر بـ 3$
+            "USD": {"amount": 3, "currency_symbol": "$", "methods": ["PayPal", "RedotPay"], "method_icons": {"PayPal": "paypal.png", "RedotPay": "redotpay.png"}}
+        }
     }
-  ],
-  "payment_contact_email": "your_payment_email@example.com"
-}
+]
+
+
+PAYMENT_CONTACT_EMAIL = "abanob.em2019@gmail.com"
