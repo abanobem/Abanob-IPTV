@@ -21,7 +21,7 @@ Free IPTV Programm For Windows (.exe)
 ---
 
 ## Download
-* Supported Win7 & 10 & above
+* Supported 10 64x & above
 
 [![Download](https://img.shields.io/badge/-Download_Now-blue?style=for-the-badge&logo=github)](https://github.com/abanobem/Abanob-IPTV/raw/refs/heads/main/APP/Abanob_IPTV_V5.2.zip)
 
